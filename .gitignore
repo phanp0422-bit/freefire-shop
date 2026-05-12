@@ -1,0 +1,20 @@
+# Node
+node_modules/
+.next/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+*.log
+.env
+
+# Virtual environments
+backend/venv/
+
+# Editor
+.vscode/
+.DS_Store
